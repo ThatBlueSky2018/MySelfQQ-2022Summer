@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/bold.png</file>
+        <file>image/Cherry.png</file>
+        <file>image/clear.png</file>
+        <file>image/color.png</file>
+        <file>image/dr.png</file>
+        <file>image/ftbz.png</file>
+        <file>image/italic.png</file>
+        <file>image/jj.png</file>
+        <file>image/lswh.png</file>
+        <file>image/qmnn.png</file>
+        <file>image/qq.png</file>
+        <file>image/save.png</file>
+        <file>image/spqy.png</file>
+        <file>image/Thumbs.db</file>
+        <file>image/under.png</file>
+        <file>image/wy.png</file>
+        <file>image/ymrl.png</file>
+    </qresource>
+</RCC>
